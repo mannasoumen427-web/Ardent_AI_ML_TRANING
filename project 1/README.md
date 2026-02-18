@@ -163,7 +163,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [@my-username](https://github.com/mannasoumen427-web)
-- LinkedIn: [my-linkedin](https://linkedin.com/in/programmer-sahil)
+- LinkedIn: [my-linkedin](https://linkedin.com/in/soumen-manna123)
 
 ---
 
