@@ -40,8 +40,8 @@ This project performs **Exploratory Data Analysis (EDA)** on the classic **Titan
 |---|---|
 | `Survived` | Survival status (0 = No, 1 = Yes) |
 | `Pclass` | Passenger class (1st, 2nd, 3rd) |
-| `Sex` | Gender of the passenger |
-| `Age` | Age in years |
+| `Sex` | Meal |
+| `Age` | 20 |
 | `SibSp` | Number of siblings/spouses aboard |
 | `Parch` | Number of parents/children aboard |
 | `Fare` | Ticket fare paid |
