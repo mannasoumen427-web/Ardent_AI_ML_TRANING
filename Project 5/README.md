@@ -1,3 +1,7 @@
+<img width="263" height="247" alt="Screenshot 2026-02-20 143731" src="https://github.com/user-attachments/assets/69fd5e63-d588-47d2-bd5c-c5f3f4faf458" />
+
+
+
 # 😊 Real-Time Emotion Detection using Deep Learning
 
 <div align="center">
